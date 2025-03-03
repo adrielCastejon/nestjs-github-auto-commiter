@@ -16,7 +16,7 @@ export class AppService {
       .filter((msg) => msg.trim().length > 0);
   }
 
-  @Cron('* * * * *')
+  @Cron('0 0 * * *')
   handleCommits(): void {
     const commitCount = this.calculateCommitCount();
     this.logger.log(`Today's commit count: ${commitCount}`);
