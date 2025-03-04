@@ -16,8 +16,11 @@ export class AppService {
       .filter((msg) => msg.trim().length > 0);
   }
 
-  @Cron('0 0 * * *')
+  @Cron('0 27 14 * * *', {
+    timeZone: 'America/Sao_Paulo',
+  })
   handleCommits(): void {
+    this.logger.log('Starting commit process');
     const commitCount = this.calculateCommitCount();
     this.logger.log(`Today's commit count: ${commitCount}`);
 
