@@ -1,6 +1,6 @@
 FROM node:18-alpine AS builder
 
-RUN apk update && apk add --no-cache git openssh-client
+RUN apk update && apk add --no-cache git openssh-client && git config --global --add safe.directory /app
 
 WORKDIR /app
 COPY package.json package-lock.json ./

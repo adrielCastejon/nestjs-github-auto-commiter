@@ -4,6 +4,7 @@ services:
   app:
     build: .
     container_name: nestjs-auto-committer
+    user: '${UID}:${GID}'
     restart: unless-stopped
     ports:
       - '3339:3000'
@@ -12,5 +13,3 @@ services:
       - /app/node_modules
     environment:
       - NODE_ENV=production
-    command: >
-      sh -c "npm run start:prod && tail -f /dev/null"
