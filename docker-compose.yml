@@ -12,3 +12,5 @@ services:
       - /app/node_modules
     environment:
       - NODE_ENV=production
+    command: >
+      sh -c "npm run start:prod && tail -f /dev/null"
