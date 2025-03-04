@@ -13,3 +13,5 @@ services:
       - /app/node_modules
     environment:
       - NODE_ENV=production
+      - GIT_EMAIL=adrielcolherinhas@gmail.com
+      - GIT_NAME=adrielCastejon
