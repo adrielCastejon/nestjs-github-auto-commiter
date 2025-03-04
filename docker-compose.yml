@@ -11,6 +11,8 @@ services:
     volumes:
       - .:/app
       - /app/node_modules
+      - ~/.ssh:/root/.ssh:ro
+      - .ssh:/app/.ssh
     environment:
       - NODE_ENV=production
       - GIT_EMAIL=adrielcolherinhas@gmail.com
