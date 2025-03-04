@@ -16,7 +16,7 @@ export class AppService {
       .filter((msg) => msg.trim().length > 0);
   }
 
-  @Cron('0 27 14 * * *', {
+  @Cron('0 30 14 * * *', {
     timeZone: 'America/Sao_Paulo',
   })
   handleCommits(): void {
