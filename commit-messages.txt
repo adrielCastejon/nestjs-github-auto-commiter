@@ -1,7 +1,9 @@
-chore: atualizar registros diários
-docs: atualizar documentação automática
-fix: corrigir dados inconsistentes
-style: formatar arquivo de logs
-refactor: reorganizar dados históricos
-test: adicionar dados de teste temporários
-feat: implementar nova funcionalidade de registro
+chore: “Tudo o que vocês querem que os outros façam a vocês, façam também vocês a eles; porque esta é a lei e os Profetas.” → Mateus 7:12
+docs: “Os olhos são a candeia do corpo. Se os seus olhos forem bons, todo o seu corpo será cheio de luz.” → Mateus 6:22
+fix: “Ninguém pode servir a dois senhores; pois odiará a um e amará o outro, ou se dedicará a um e desprezará o outro.” → Mateus 6:24
+style: “Que vos ameis uns aos outros, assim como eu vos amei.” → João 15:12
+refactor: “Não resistam ao perverso. Se alguém o ferir na face direita, ofereça-lhe também a outra.” → Mateus 5:39
+test: “Amem os seus inimigos e orem por aqueles que os perseguem.” → Mateus 5:44
+feat: “Embaínha a tua espada; porque todos os que lançarem mão da espada, à espada morrerão.” → Mateus 26:52
+hotfix: “Quando cair o teu inimigo, não te alegres, nem quando ele tropeçar se regozije o teu coração.” → Provérbios 24:17
+breaking-change: “Disse-lhe Jesus: Eu sou o caminho, a verdade e a vida.” → João 14:6
