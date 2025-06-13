@@ -6,7 +6,9 @@ RUN apk update && apk add --no-cache git openssh-client && \
     ssh-keyscan github.com >> /root/.ssh/known_hosts
 
 WORKDIR /app
+
 COPY . .
+
 RUN npm install && npm run build
 
 FROM node:18-alpine
