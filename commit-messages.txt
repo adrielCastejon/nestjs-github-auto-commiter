@@ -1,18 +1,18 @@
-chore: “Tudo o que vocês querem que os outros façam a vocês, façam também vocês a eles; porque esta é a lei e os Profetas.” Mateus 7:12
-docs: “Os olhos são a candeia do corpo. Se os seus olhos forem bons, todo o seu corpo será cheio de luz.” Mateus 6:22
-fix: “Ninguém pode servir a dois senhores; pois odiará a um e amará o outro, ou se dedicará a um e desprezará o outro.” Mateus 6:24
-style: “Que vos ameis uns aos outros, assim como eu vos amei.” João 15:12
-refactor: “Não resistam ao perverso. Se alguém o ferir na face direita, ofereça-lhe também a outra.” Mateus 5:39
-test: “Amem os seus inimigos e orem por aqueles que os perseguem.” Mateus 5:44
-feat: “Embaínha a tua espada; porque todos os que lançarem mão da espada, à espada morrerão.” Mateus 26:52
-hotfix: “Quando cair o teu inimigo, não te alegres, nem quando ele tropeçar se regozije o teu coração.” Provérbios 24:17
-breaking-change: “Disse-lhe Jesus: Eu sou o caminho, a verdade e a vida.” João 14:6
-chore: "Aquele que ama a correção ama a ciência, mas o que detesta a reprimenda é um insensato." Provérbios 12:1 
-docs: "O lobo e o cordeiro pastarão juntos, o leão, como um boi, se alimentará de palha, e a serpente comerá terra. Nenhum mal nem desordem alguma será cometida, em todo o meu monte santo”, diz o Senhor. Isaías 65:25
-fix: "Sabeis qual é o jejum que eu aprecio? – diz o Senhor Deus: é romper as cadeias injustas, desatar as cordas do jugo, mandar embora livres os oprimidos, e quebrar toda espécie de jugo." Isaías 58:6
-style: "Pois não é contra homens de carne e sangue que temos de lutar, mas contra os principados e potestades, contra os príncipes deste mundo tenebroso, contra as forças espirituais do mal (espalhadas) nos ares." -> Efésios 6:12
-refactor: "E no dia em que clamardes ao Senhor por causa do rei, que vós mesmos escolhestes, o Senhor não vos ouvirá” I Samuel 8:18
-test: "Quando dominam os justos, alegra-se o povo; quando governa o ímpio, o povo geme." Provérbios 29:2
-feat: "Se recusa ouvi-los, dize-o à Igreja. E se recusar ouvir também a Igreja, seja ele para ti como um pagão e um publicano." Mateus 18:17
-hotfix: "Nem se dirá: Ei-lo aqui; ou: Ei-lo ali. Pois o Reino de Deus já está no meio de vós” Lucas 17:21
-breaking-change: "Não julgueis que vim trazer a paz à terra. Vim trazer não a paz, mas a espada." Mateus 10:34
+chore: 'Tudo o que vocês querem que os outros façam a vocês, façam também vocês a eles; porque esta é a lei e os Profetas.' Mateus 7:12
+docs: 'Os olhos são a candeia do corpo. Se os seus olhos forem bons, todo o seu corpo será cheio de luz.' Mateus 6:22
+fix: 'Ninguém pode servir a dois senhores; pois odiará a um e amará o outro, ou se dedicará a um e desprezará o outro.' Mateus 6:24
+style: 'Que vos ameis uns aos outros, assim como eu vos amei.' João 15:12
+refactor: 'Não resistam ao perverso. Se alguém o ferir na face direita, ofereça-lhe também a outra.' Mateus 5:39
+test: 'Amem os seus inimigos e orem por aqueles que os perseguem.' Mateus 5:44
+feat: 'Embaínha a tua espada; porque todos os que lançarem mão da espada, à espada morrerão.' Mateus 26:52
+hotfix: 'Quando cair o teu inimigo, não te alegres, nem quando ele tropeçar se regozije o teu coração.' Provérbios 24:17
+breaking-change: 'Disse-lhe Jesus: Eu sou o caminho, a verdade e a vida.' João 14:6
+chore: 'Aquele que ama a correção ama a ciência, mas o que detesta a reprimenda é um insensato.' Provérbios 12:1 
+docs: 'O lobo e o cordeiro pastarão juntos, o leão, como um boi, se alimentará de palha, e a serpente comerá terra. Nenhum mal nem desordem alguma será cometida, em todo o meu monte santo', diz o Senhor. Isaías 65:25
+fix: 'Sabeis qual é o jejum que eu aprecio? – diz o Senhor Deus: é romper as cadeias injustas, desatar as cordas do jugo, mandar embora livres os oprimidos, e quebrar toda espécie de jugo.' Isaías 58:6
+style: 'Pois não é contra homens de carne e sangue que temos de lutar, mas contra os principados e potestades, contra os príncipes deste mundo tenebroso, contra as forças espirituais do mal (espalhadas) nos ares.' -> Efésios 6:12
+refactor: 'E no dia em que clamardes ao Senhor por causa do rei, que vós mesmos escolhestes, o Senhor não vos ouvirá' I Samuel 8:18
+test: 'Quando dominam os justos, alegra-se o povo; quando governa o ímpio, o povo geme.' Provérbios 29:2
+feat: 'Se recusa ouvi-los, dize-o à Igreja. E se recusar ouvir também a Igreja, seja ele para ti como um pagão e um publicano.' Mateus 18:17
+hotfix: 'Nem se dirá: Ei-lo aqui; ou: Ei-lo ali. Pois o Reino de Deus já está no meio de vós' Lucas 17:21
+breaking-change: 'Não julgueis que vim trazer a paz à terra. Vim trazer não a paz, mas a espada.' Mateus 10:34
